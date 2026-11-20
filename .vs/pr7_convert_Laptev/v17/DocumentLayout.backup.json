@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-4C7D-8E9F-0A1B2C3D4E5F}|pr7_convert_Laptev\\pr7_convert_Laptev.csproj|\\\\mac\\home\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0442\u0440\u043F\u043E_\u0433\u0430\u0440\u0438\u0435\u0432\\pr7_convert_laptev\\pr7_convert_laptev\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-4C7D-8E9F-0A1B2C3D4E5F}|pr7_convert_Laptev\\pr7_convert_Laptev.csproj|\\\\mac\\home\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0442\u0440\u043F\u043E_\u0433\u0430\u0440\u0438\u0435\u0432\\pr7_convert_laptev\\pr7_convert_laptev\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-4C7D-8E9F-0A1B2C3D4E5F}|pr7_convert_Laptev\\pr7_convert_Laptev.csproj|\\\\mac\\home\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0442\u0440\u043F\u043E_\u0433\u0430\u0440\u0438\u0435\u0432\\pr7_convert_laptev\\pr7_convert_laptev\\converters\\discountconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-4C7D-8E9F-0A1B2C3D4E5F}|pr7_convert_Laptev\\pr7_convert_Laptev.csproj|\\\\mac\\home\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0442\u0440\u043F\u043E_\u0433\u0430\u0440\u0438\u0435\u0432\\pr7_convert_laptev\\pr7_convert_laptev\\models\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-4C7D-8E9F-0A1B2C3D4E5F}|pr7_convert_Laptev\\pr7_convert_Laptev.csproj|\\\\mac\\home\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0442\u0440\u043F\u043E_\u0433\u0430\u0440\u0438\u0435\u0432\\pr7_convert_laptev\\pr7_convert_laptev\\converters\\strikethroughconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pr7_convert_Laptev\\MainWindow.xaml.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pr7_convert_Laptev\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:36:27.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pr7_convert_Laptev\\MainWindow.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\MainWindow.xaml [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "pr7_convert_Laptev\\MainWindow.xaml [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-20T09:03:10.274Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StrikethroughConverter.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\Converters\\StrikethroughConverter.cs",
+              "RelativeDocumentMoniker": "pr7_convert_Laptev\\Converters\\StrikethroughConverter.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\Converters\\StrikethroughConverter.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "pr7_convert_Laptev\\Converters\\StrikethroughConverter.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAIAAAAANjMzMzMLwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:02:53.638Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountConverter.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\Converters\\DiscountConverter.cs",
+              "RelativeDocumentMoniker": "pr7_convert_Laptev\\Converters\\DiscountConverter.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\Converters\\DiscountConverter.cs",
+              "RelativeToolTip": "pr7_convert_Laptev\\Converters\\DiscountConverter.cs",
+              "ViewState": "AgIAAAgAAAAAAgAAAOAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:02:51.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\Models\\CarRental.cs",
+              "RelativeDocumentMoniker": "pr7_convert_Laptev\\Models\\CarRental.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0422\u0420\u041F\u041E_\u0413\u0430\u0440\u0438\u0435\u0432\\pr7_convert_Laptev\\pr7_convert_Laptev\\Models\\CarRental.cs*",
+              "RelativeToolTip": "pr7_convert_Laptev\\Models\\CarRental.cs*",
+              "ViewState": "AgIAAAMAAAAAUDMzMzPbvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:02:42.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
